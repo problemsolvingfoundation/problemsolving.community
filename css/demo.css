@@ -310,6 +310,7 @@ p.codrops-demos a.current-demo:hover{
 	 left: 0;
 	 cursor: pointer;
 	 transition: 0.2s ease;
+	 z-index: 1800;
 }
  .acceptBtn:hover {
 	 background: #6b7fc5;
