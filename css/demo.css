@@ -345,4 +345,7 @@ p.codrops-demos a.current-demo:hover{
 	color: wheat;
 	opacity: 1 !important;
 	position: relative;
+	padding-bottom: 27px;
+	font-family: Roboto;
+	font-size: 27px;
 }
