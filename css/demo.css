@@ -199,7 +199,7 @@ p.codrops-demos a.current-demo:hover{
 	 display: flex;
 	 overflow: hidden;
 	 position: relative;
-	 border-radius: 5px;
+	 border-radius: 5px;	 
 }
  #inviteContainer .acceptContainer {
 	 padding: 45px 30px;
@@ -340,5 +340,8 @@ p.codrops-demos a.current-demo:hover{
 }
 
 .our-text { 
-	display: flex;
+	width: 50%;
+	background-color: #000;
+	color: wheat;
+	opacity: 1 !important;
 }
