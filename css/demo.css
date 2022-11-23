@@ -320,3 +320,18 @@ p.codrops-demos a.current-demo:hover{
 	padding-right: 10%;
 	padding-top: 180px;
 }
+
+
+.serverimg {
+	border-radius: 100%;
+	width: 45px;
+}
+
+.roboto-text {
+	font-family: Roboto !important;
+	font-weight: unset !important;
+}
+.roboto-text-bold {
+	font-family: Roboto !important;
+	font-weight: 600 !important;
+}
