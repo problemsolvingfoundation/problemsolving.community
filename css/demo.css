@@ -344,4 +344,5 @@ p.codrops-demos a.current-demo:hover{
 	background-color: #000;
 	color: wheat;
 	opacity: 1 !important;
+	position: relative;
 }
