@@ -338,3 +338,7 @@ p.codrops-demos a.current-demo:hover{
 	font-family: Roboto !important;
 	font-weight: 600 !important;
 }
+
+.our-text { 
+	display: flex;
+}
