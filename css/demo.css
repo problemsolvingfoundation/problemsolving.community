@@ -358,3 +358,7 @@ p.codrops-demos a.current-demo:hover{
 	z-index: 1900;
  
 }
+
+.accordion-title  {		
+	padding: 9px 9px 9px 9px;
+}
