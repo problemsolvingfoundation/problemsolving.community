@@ -200,11 +200,13 @@ p.codrops-demos a.current-demo:hover{
 	 overflow: hidden;
 	 position: relative;
 	 border-radius: 5px;	 
+	 margin-bottom: 36px;
 }
  #inviteContainer .acceptContainer {
 	 padding: 45px 30px;
 	 box-sizing: border-box;
 	 width: 400px;
+	 min-height: 270px;
 }
  #inviteContainer .acceptContainer:before {
 	 content: "";
@@ -362,3 +364,13 @@ p.codrops-demos a.current-demo:hover{
 .accordion-title  {		
 	padding: 9px 9px 9px 9px;
 }
+/*
+@media only screen and (max-width: 600px) { 
+	.logoContainer { 
+	  display: none; 
+	} 
+  }
+*/
+  .joinlogo {
+	margin-right: 9px;
+  }
